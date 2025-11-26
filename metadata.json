@@ -1,0 +1,5 @@
+{
+  "name": "Clarity - Article Intelligence",
+  "description": "A Chrome extension landing page featuring article analysis, AI detection, and content generation tools powered by Gemini.",
+  "requestFramePermissions": []
+}
